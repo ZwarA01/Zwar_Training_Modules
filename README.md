@@ -9,5 +9,5 @@
 ### 5. let you tell others about changes you've pushed to a branch in a repository on GitHub
 
 
-![Snoopy](https://media.giphy.com/media/sfveRob9mxGdW/giphy.gif)
+![Snoopy](https://media.giphy.com/media/sfveRob9mxGdW/giphy.gif) <br>
 https://open.spotify.com/track/7yPGXCaeIr1ofJoqp3LeKF?autoplay=true
