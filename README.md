@@ -9,5 +9,5 @@
 ### 5. let you tell others about changes you've pushed to a branch in a repository on GitHub
 
 
-![Snoopy](https://giphy.com/gifs/peanuts-halloween-charlie-brown-great-pumpkin-sfveRob9mxGdW)
+![Snoopy](https://media.giphy.com/media/sfveRob9mxGdW/giphy.gif)
 https://open.spotify.com/track/7yPGXCaeIr1ofJoqp3LeKF?autoplay=true
